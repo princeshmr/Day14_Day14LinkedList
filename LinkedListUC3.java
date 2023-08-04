@@ -28,7 +28,7 @@ public class LinkedListUC3<E> {
 		System.out.println(temp.data);
 	}
 	public static void main(String[] args) {
-		LinkedListUC1<Integer> ll=new LinkedListUC1<Integer>();
+		LinkedListUC3<Integer> ll=new LinkedListUC3<Integer>();
 		ll.insertAtEnd(56);
 		ll.insertAtEnd(30);
         ll.insertAtEnd(70);
